@@ -1,6 +1,6 @@
 WACROP (Waveform And CROssbar Programmer) is an educational and research-oriented tool designed to create, visualize, and export custom electrical pulse waveforms (see Section A) and 1T1R crossbar programming schemes (see Section B). It is ideal for researchers working on memristive arrays, neuromorphic circuits, or pulse-driven hardware, offering intuitive design and automated export in multiple formats.
 
-                                                       ===== HELP & INSTRUCTIONS =====
+===== HELP & INSTRUCTIONS =====
 
 A.1 SETUP THE WAVEFORM EDITOR TAB:
    - Total Time & Time Step: Define time grid resolution.
@@ -64,9 +64,9 @@ B.3 EXPORT TO AN ARCHIVE (.zip):
 
 📊 Example qualitative shapes for the waveform generation sub-tool (see the images at the bottom).
 
-                                                       ===== LICENSE & ATTRIBUTION =====
+===== LICENSE & ATTRIBUTION =====
 📘 This software is intended for research and educational use only. Please contact the author for permission if you wish to redistribute or modify it.
 
-                                              WACROP - Version 1.0.3  |  © 2025  All rights reserved.
-                                              Created by: Ioannis K. Chatzipaschalis - Ph.D. Student
-                                                 Contact E-mail: ioannis.chatzipaschalis@upc.edu
+WACROP - Version 1.0.3  |  © 2025  All rights reserved.
+Created by: Ioannis K. Chatzipaschalis - Ph.D. Student
+Contact E-mail: ioannis.chatzipaschalis@upc.edu
