@@ -65,8 +65,7 @@ B.3 EXPORT TO AN ARCHIVE (.zip):
 📊 Example qualitative shapes for the waveform generation sub-tool (see the images at the bottom).
 
 ===== LICENSE & ATTRIBUTION =====
+
 📘 This software is intended for research and educational use only. Please contact the author for permission if you wish to redistribute or modify it.
 
-WACROP - Version 1.0.3  |  © 2025  All rights reserved.
-Created by: Ioannis K. Chatzipaschalis - Ph.D. Student
-Contact E-mail: ioannis.chatzipaschalis@upc.edu
+WACROP - Version 1.0.3  |  © 2025  All rights reserved.  |  Created by: Ioannis K. Chatzipaschalis - Ph.D. Student  |  Contact E-mail: ioannis.chatzipaschalis@upc.edu
